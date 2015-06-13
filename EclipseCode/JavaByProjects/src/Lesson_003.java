@@ -1,5 +1,5 @@
 
-public class lesson_3 {
+public class Lesson_003 {
 
 	public static void main(String[] args) {
 		int x = 10;
